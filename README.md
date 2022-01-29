@@ -20,7 +20,19 @@
        
 ## 📊 My Github Stats
        
-       
+
+
+  <br/>
+    <a href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitozturk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitozturk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<p align="center">&nbsp;
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<!--
+
 <p align="center">&nbsp;
 
   <br/>
@@ -29,11 +41,6 @@
   
 </p>
 
-<p align="center">&nbsp;
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-<!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
