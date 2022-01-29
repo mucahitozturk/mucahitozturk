@@ -11,9 +11,11 @@
 
 <body>
 
-<img src="https://www.azkod.com/resimler/azkod.gif" alt="Hareketli resim ekleme">
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Hareketli resim ekleme">
 
 </body>
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
