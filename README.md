@@ -21,10 +21,13 @@
 ## 📊 My Github Stats
        
 
+<p align="center">&nbsp;
 
   <br/>
-    <a with:80% href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitozturk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a with:20% href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitozturk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a with:50% href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitozturk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a with:50% href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitozturk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+</p>
 
 
 <p align="center">&nbsp;
