@@ -9,8 +9,9 @@
 
 <h3 align="center">A passionate Open Source contributor</h3>
 
-<h3 align="center">![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)</h3>
-
+<p align="center"> 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+</p>
 <!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
