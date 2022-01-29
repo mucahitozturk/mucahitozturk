@@ -9,11 +9,9 @@
 
 <h3 align="center">A passionate Open Source contributor</h3>
 
-<body>
-<center>
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Hareketli resim ekleme">
-</center>
-</body>
+
+<img align="middle" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Hareketli resim ekleme">
+
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
