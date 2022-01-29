@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mücahit</h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=mucahitozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mucahitozturk" />
-
+    <img src="https://komarev.com/ghpvc/?username=mucahitozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mucahitozturk"/>
+    <a href="https://github.com/mucahitozturk"><img src="https://img.shields.io/github/followers/cosasdepuma.svg?label=GitHub&style=social" alt="GitHub"></a>
+    <a href="https://twitter.com/mucahituzturk" target="_blank"><img alt="Twitter: mucahituzturk" src="https://img.shields.io/twitter/follow/srcemre_.svg?style=social"/></a>
 </p>
 
 <!--
