@@ -21,7 +21,7 @@
 ## 📊 My Github Stats
        
 
-<div>&nbsp;
+<div>
 
   <br/>
     <a style="width:50%;float:left" href="https://github.com/mucahitozturk/github-readme-stats"><img alt="Mücahit Öztürk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mucahitozturk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
