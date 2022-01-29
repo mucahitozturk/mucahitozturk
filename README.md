@@ -10,16 +10,12 @@
 <h3 align="center">A passionate Open Source contributor</h3>
 
 
-
 <p align="center">&nbsp;
     <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="hareketliresim" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=srcemre&show_icons=true&locale=en&theme=vision-friendly-dark"  width="420" alt="srcemre"/>
+    
 </p>
 
-<img align="middle" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Hareketli resim ekleme">
 
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
