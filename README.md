@@ -1,5 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Mücahit</h1>
 
+<p align="center"> 
+    <img src=”https://komarev.com/ghpvc/?username=mucahitozturk" alt=mucahitozturk/>
+
+</p>
+
 <!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
