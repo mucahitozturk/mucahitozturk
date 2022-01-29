@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Mücahit</h1>
-<h3 align="center">A passionate Open Source contributor</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=mucahitozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mucahitozturk"/>
@@ -7,6 +6,10 @@
     <a href="https://twitter.com/mucahituzturk" target="_blank"><img alt="Twitter: mucahituzturk" src="https://img.shields.io/twitter/follow/mucahituzturk.svg?style=social"/></a>
     <a href="https://www.linkedin.com/in/mucahitozturk"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+<h3 align="center">A passionate Open Source contributor</h3>
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <!--
 **mucahitozturk/mucahitozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
